@@ -1,0 +1,21 @@
+.login-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+}
+
+.fbox {
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fbox p {
+    font-weight: bold;
+    color: #000000;
+}
